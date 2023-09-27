@@ -7,6 +7,7 @@ export default function Home() {
   return (
     <main className="">
       <Header />
+        <div></div>
       <Table />
     </main>
   );
