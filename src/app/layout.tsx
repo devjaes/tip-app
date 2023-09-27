@@ -1,6 +1,7 @@
 import "./globals.css";
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
+import "primereact/resources/themes/lara-dark-teal/theme.css";
 import Header from "./components/header";
 
 const inter = Inter({ subsets: ["latin"] });
